@@ -10,3 +10,8 @@ exercise python with https://wikidocs.net/7091
 > 세번째 풀이부터는 공부하여 풀이(틀린것만 풀이)
 
 > 네번째는 외우다싶이 공부(틀린것만 풀이)
+
+
+
+## 2018-04-13 
+   > wrong : #19
