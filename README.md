@@ -14,4 +14,4 @@ exercise python with https://wikidocs.net/7091
 
 
 ## 2018-04-13 
-   > wrong : #19
+   > wrong : #19 #26 #27 #29
