@@ -1,5 +1,6 @@
 # Python_basic
 exercise python with https://wikidocs.net/7091
+* since 2018-04-13 change book to http://sharebook.kr/pages/viewpage.action?pageId=3080357 
 
 ### How to study
 > 처음엔(전체 풀이)
