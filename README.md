@@ -17,5 +17,5 @@ exercise python with https://wikidocs.net/7091
 |     Date      |   wrong problem  |
 | ------------- | ------------- |
 | 2018-04-13  | #19, #26, #27, #29, #31, #34, #37, #38, #39, #40(더 짧게)  |
-| Content Cell  | Content Cell  |
+| Content Cell  | #27, #34, #40  |
   
